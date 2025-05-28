@@ -31,5 +31,5 @@ Does being *very tall* actually hurt a player when returning serve on grass cour
 Effect size: ≈ **1 return point per 100**—small but statistically significant  
 (*mixed-effects model, p < 0.05*). Uncertainty widens for heights > 2.05 m because very few 2-meter giants play many grass matches.
 
-![Height-return curve](figures/returner_height.png)
+![Height-return curve]([figures/returner_height.png](https://github.com/Vikatormfc/Tennis/blob/main/Returner_Height.png))
 
