@@ -32,4 +32,7 @@ Effect size: ≈ **1 return point per 100**—small but statistically significan
 (*mixed-effects model, p < 0.05*). Uncertainty widens for heights > 2.05 m because very few 2-meter giants play many grass matches.
 
 ![Height-return curve]([figures/returner_height.png](https://github.com/Vikatormfc/Tennis/blob/main/Returner_Height.png))
+<p align="center">
+  <img src="figures/returner_height.png" width="650" alt="Height–return curve by surface">
+</p>
 
