@@ -1,7 +1,7 @@
 # Height vs Return Performance on Grass Courts (ATP 1991-2024)
 
 <p align="center">
-  <img src="figures/returner_height.png" width="550">
+  <img src="Returner_Height.png" width="650" alt="Height–return curve by surface">
 </p>
 
 ## 📍 Project Goal
@@ -31,7 +31,5 @@ Does being *very tall* actually hurt a player when returning serve on grass cour
 Effect size: ≈ **1 return point per 100**—small but statistically significant  
 (*mixed-effects model, p < 0.05*). Uncertainty widens for heights > 2.05 m because very few 2-meter giants play many grass matches.
 
-<p align="center">
-  <img src="Returner_Height.png" width="650" alt="Height–return curve by surface">
-</p>
+
 
